@@ -1,2 +1,2 @@
-# estudos-dio-primeiro-repositorio
+# estudos-DIO-primeiro-repositorio
 Repositorio de estudos Git/GitHub
